@@ -23,9 +23,9 @@
 
 **Experiência Profissional:**
 
-* **[Tech Solutions LTDA]** - **Desenvolvedora Front-End Júnior** - 2023 - Presente
+* **[Tech Solutions LTDA]** - **Desenvolvedor Front-End Júnior** - 2023 - Presente
     * **[Desenvolvimento de interfaces para plataforma de e-commerce utilizando React.js, HTML, CSS e JavaScript. Implementação de testes unitários e integração com APIs.]**
-* **[Inova Web Design]** - **Estagiária de Desenvolvimento Web** - 2022
+* **[Inova Web Design]** - **Estagiário de Desenvolvimento Web** - 2022
     * **[Criação de protótipos de sites responsivos utilizando HTML, CSS e JavaScript. Participação em projetos de desenvolvimento de sites institucionais.]**
 
 ---
